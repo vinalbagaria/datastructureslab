@@ -1,8 +1,5 @@
 /******************************************************************************
 VINAL BAGARIA
-SE COMPS
-Batch A
-Roll No. 07
 AIM:
 Expt 1 : Application of Linked list sparse Matrics
 THEORY:
